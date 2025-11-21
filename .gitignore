@@ -1,0 +1,29 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.ipynb_tmp
+
+# OS & editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data: keep only small sample files under version control
+data/*.csv
+!data/synthetic_firmware_features_50rows.csv
+!data/test_patch_features.csv
+!data/firmware_qa_priority.csv
+!data/monitoring_priority.csv
+
+# Models (if these get large, consider Git LFS later)
+models/
+*.cbm
+
+# Logs / temp
+logs/
+*.log
