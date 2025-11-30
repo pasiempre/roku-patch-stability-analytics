@@ -1,0 +1,499 @@
+device_id,model,region,manufacture_date,hardware_revision,cpu_class
+DEV_0001,Roku Ultra,APAC,2024-01-02,B,high
+DEV_0002,Roku Premiere,APAC,2020-09-02,A,mid
+DEV_0003,Roku Premiere,EU,2021-02-12,B,mid
+DEV_0004,Roku Premiere,EU,2023-10-24,B,mid
+DEV_0005,Roku Express,LATAM,2019-07-16,B,low
+DEV_0006,Roku Ultra,EU,2022-12-24,B,high
+DEV_0007,Roku Premiere,EU,2022-10-22,B,mid
+DEV_0008,Roku Premiere,LATAM,2023-02-28,C,mid
+DEV_0009,Roku Express,EU,2022-06-01,A,low
+DEV_0010,Roku Ultra,LATAM,2023-03-15,C,high
+DEV_0011,Roku Streaming Stick+,APAC,2022-05-06,B,mid
+DEV_0012,Roku Premiere,APAC,2020-01-09,C,mid
+DEV_0013,Roku Ultra,LATAM,2021-10-29,A,high
+DEV_0014,Roku Streaming Stick+,APAC,2019-06-20,A,mid
+DEV_0015,Roku Streaming Stick+,APAC,2021-11-01,B,mid
+DEV_0016,Roku Express,EU,2022-09-13,A,low
+DEV_0017,Roku Express,APAC,2020-02-21,A,low
+DEV_0018,Roku Ultra,EU,2019-12-26,A,high
+DEV_0019,Roku Premiere,LATAM,2019-10-11,B,mid
+DEV_0020,Roku Streaming Stick+,EU,2019-08-20,B,mid
+DEV_0021,Roku Ultra,APAC,2023-12-16,B,high
+DEV_0022,Roku TV,APAC,2021-07-08,C,high
+DEV_0023,Roku Ultra,LATAM,2022-09-28,A,high
+DEV_0024,Roku TV,LATAM,2022-11-09,A,high
+DEV_0025,Roku Ultra,LATAM,2022-11-16,C,high
+DEV_0026,Roku Express,EU,2019-12-18,A,low
+DEV_0027,Roku Streaming Stick+,EU,2020-02-15,C,mid
+DEV_0028,Roku TV,LATAM,2023-01-05,B,high
+DEV_0029,Roku TV,APAC,2022-01-13,A,high
+DEV_0030,Roku TV,LATAM,2020-05-17,B,high
+DEV_0031,Roku Streaming Stick+,APAC,2023-05-05,B,mid
+DEV_0032,Roku Streaming Stick+,APAC,2020-12-07,C,mid
+DEV_0033,Roku Streaming Stick+,LATAM,2021-11-21,B,mid
+DEV_0034,Roku TV,EU,2019-06-13,A,high
+DEV_0035,Roku Ultra,APAC,2020-05-22,A,high
+DEV_0036,Roku Ultra,EU,2022-12-03,A,high
+DEV_0037,Roku Premiere,APAC,2019-11-29,A,mid
+DEV_0038,Roku Ultra,LATAM,2020-02-02,A,high
+DEV_0039,Roku Ultra,LATAM,2023-01-07,A,high
+DEV_0040,Roku TV,EU,2021-06-29,C,high
+DEV_0041,Roku Ultra,APAC,2020-02-11,A,high
+DEV_0042,Roku Ultra,EU,2022-12-04,B,high
+DEV_0043,Roku Streaming Stick+,APAC,2022-11-10,C,mid
+DEV_0044,Roku TV,EU,2023-04-03,C,high
+DEV_0045,Roku Premiere,LATAM,2024-01-17,C,mid
+DEV_0046,Roku TV,LATAM,2021-08-05,B,high
+DEV_0047,Roku Premiere,APAC,2024-01-01,B,mid
+DEV_0048,Roku Express,EU,2021-03-03,A,low
+DEV_0049,Roku Premiere,LATAM,2022-01-02,C,mid
+DEV_0050,Roku Ultra,APAC,2023-02-28,B,high
+DEV_0051,Roku Streaming Stick+,APAC,2022-04-10,B,mid
+DEV_0052,Roku TV,EU,2024-01-03,B,high
+DEV_0053,Roku Ultra,EU,2023-05-14,B,high
+DEV_0054,Roku Premiere,LATAM,2021-09-23,B,mid
+DEV_0055,Roku Ultra,LATAM,2023-09-11,B,high
+DEV_0057,Roku TV,APAC,2020-06-10,A,high
+DEV_0058,Roku TV,APAC,2022-10-19,B,high
+DEV_0059,Roku Streaming Stick+,EU,2019-06-29,A,mid
+DEV_0060,Roku Ultra,LATAM,2023-03-27,C,high
+DEV_0061,Roku Premiere,APAC,2020-12-15,A,mid
+DEV_0062,Roku Express,LATAM,2021-07-04,B,low
+DEV_0063,Roku Ultra,EU,2019-07-02,A,high
+DEV_0064,Roku Ultra,APAC,2020-12-29,C,high
+DEV_0065,Roku Streaming Stick+,APAC,2019-10-05,A,mid
+DEV_0066,Roku TV,LATAM,2021-10-05,A,high
+DEV_0067,Roku Streaming Stick+,EU,2022-12-28,C,mid
+DEV_0068,Roku TV,EU,2023-02-19,A,high
+DEV_0069,Roku Ultra,LATAM,2019-10-03,C,high
+DEV_0070,Roku Express,LATAM,2023-01-25,C,low
+DEV_0071,Roku Ultra,APAC,2020-06-06,A,high
+DEV_0072,Roku Express,EU,2021-06-12,B,low
+DEV_0073,Roku Ultra,APAC,2022-09-10,B,high
+DEV_0074,Roku Streaming Stick+,LATAM,2022-01-11,A,mid
+DEV_0075,Roku Premiere,APAC,2020-02-06,A,mid
+DEV_0076,Roku Express,APAC,2021-10-26,B,low
+DEV_0077,Roku Premiere,APAC,2019-10-04,C,mid
+DEV_0078,Roku TV,APAC,2019-05-10,A,high
+DEV_0079,Roku Express,LATAM,2022-08-02,A,low
+DEV_0080,Roku Express,LATAM,2021-06-15,C,low
+DEV_0081,Roku Streaming Stick+,APAC,2021-06-13,C,mid
+DEV_0082,Roku TV,LATAM,2021-05-15,A,high
+DEV_0083,Roku Premiere,APAC,2023-09-22,C,mid
+DEV_0084,Roku TV,APAC,2022-03-27,A,high
+DEV_0085,Roku Ultra,LATAM,2021-03-02,A,high
+DEV_0086,Roku Express,EU,2019-06-30,B,low
+DEV_0087,Roku Ultra,APAC,2022-11-22,B,high
+DEV_0088,Roku Ultra,APAC,2020-11-11,B,high
+DEV_0089,Roku Streaming Stick+,EU,2020-04-04,A,mid
+DEV_0090,Roku TV,APAC,2019-06-19,B,high
+DEV_0091,Roku Ultra,EU,2023-03-20,C,high
+DEV_0092,Roku Streaming Stick+,EU,2020-09-17,B,mid
+DEV_0093,Roku Premiere,EU,2022-07-09,B,mid
+DEV_0094,Roku Ultra,APAC,2021-11-18,C,high
+DEV_0095,Roku Streaming Stick+,LATAM,2024-01-04,C,mid
+DEV_0096,Roku Express,EU,2020-06-21,A,low
+DEV_0097,Roku Express,EU,2023-12-02,A,low
+DEV_0098,Roku Premiere,APAC,2022-03-19,A,mid
+DEV_0099,Roku TV,EU,2021-08-07,A,high
+DEV_0100,Roku Premiere,EU,2020-09-27,A,mid
+DEV_0101,Roku TV,LATAM,2021-09-28,A,high
+DEV_0102,Roku Express,LATAM,2019-11-22,A,low
+DEV_0103,Roku Express,APAC,2023-06-11,B,low
+DEV_0104,Roku TV,EU,2022-10-09,B,high
+DEV_0105,Roku Express,LATAM,2022-10-17,C,low
+DEV_0106,Roku Streaming Stick+,EU,2022-03-08,A,mid
+DEV_0107,Roku Premiere,EU,2024-01-25,A,mid
+DEV_0108,Roku TV,EU,2021-12-08,C,high
+DEV_0109,Roku Premiere,EU,2022-03-06,B,mid
+DEV_0110,Roku Streaming Stick+,APAC,2021-02-26,A,mid
+DEV_0111,Roku Ultra,LATAM,2021-03-16,C,high
+DEV_0112,Roku TV,EU,2022-09-04,C,high
+DEV_0113,Roku Ultra,LATAM,2021-12-12,B,high
+DEV_0114,Roku Express,APAC,2021-07-26,A,low
+DEV_0115,Roku TV,LATAM,2019-11-28,A,high
+DEV_0116,Roku Premiere,APAC,2023-09-12,B,mid
+DEV_0117,Roku Premiere,LATAM,2020-12-31,B,mid
+DEV_0118,Roku Premiere,APAC,2023-09-06,A,mid
+DEV_0119,Roku Express,APAC,2022-10-02,B,low
+DEV_0120,Roku Ultra,LATAM,2021-11-11,B,high
+DEV_0121,Roku Ultra,EU,2020-01-11,B,high
+DEV_0122,Roku Streaming Stick+,,2022-05-26,B,mid
+DEV_0123,Roku TV,APAC,2021-08-02,A,high
+DEV_0124,Roku Express,EU,2021-03-10,A,low
+DEV_0125,Roku Premiere,EU,2020-04-16,A,mid
+DEV_0126,Roku TV,EU,2022-02-07,B,high
+DEV_0127,Roku Express,,2021-04-02,A,low
+DEV_0128,Roku Ultra,EU,2019-11-22,A,high
+DEV_0129,Roku Express,LATAM,2021-11-23,C,low
+DEV_0130,Roku Ultra,EU,2019-05-25,A,high
+DEV_0131,Roku Express,APAC,2022-02-07,C,low
+DEV_0132,Roku Streaming Stick+,EU,2021-12-01,B,mid
+DEV_0133,Roku Premiere,LATAM,2023-12-21,C,mid
+DEV_0134,Roku Express,APAC,2021-06-01,B,low
+DEV_0135,Roku Streaming Stick+,APAC,2021-09-26,B,mid
+DEV_0136,Roku TV,LATAM,2022-01-03,C,high
+DEV_0137,Roku Streaming Stick+,APAC,2020-12-19,A,mid
+DEV_0138,Roku TV,LATAM,2021-05-06,A,high
+DEV_0139,Roku TV,LATAM,2019-05-10,A,high
+DEV_0140,Roku TV,EU,2022-01-18,A,high
+DEV_0141,Roku Express,EU,2021-11-27,C,low
+DEV_0142,Roku Premiere,APAC,2020-01-09,B,mid
+DEV_0143,Roku Premiere,EU,2021-08-27,A,mid
+DEV_0144,Roku Premiere,EU,2022-10-31,B,mid
+DEV_0145,Roku TV,EU,2021-06-27,B,high
+DEV_0146,Roku TV,APAC,2021-07-20,C,high
+DEV_0147,Roku Ultra,EU,2022-01-15,A,high
+DEV_0148,Roku Premiere,APAC,2021-06-06,B,mid
+DEV_0149,Roku Premiere,APAC,2021-03-10,B,mid
+DEV_0150,Roku Ultra,EU,2019-03-26,B,high
+DEV_0151,Roku Streaming Stick+,EU,2023-09-24,C,mid
+DEV_0152,Roku Premiere,APAC,2019-07-09,A,mid
+DEV_0153,Roku Express,LATAM,2021-08-22,A,low
+DEV_0154,Roku Express,LATAM,2022-03-09,A,low
+DEV_0155,Roku TV,EU,2021-01-12,A,high
+DEV_0156,Roku Streaming Stick+,LATAM,2023-07-04,B,mid
+DEV_0157,Roku Premiere,LATAM,2020-05-13,B,mid
+DEV_0158,Roku Express,EU,2023-08-11,C,low
+DEV_0159,Roku TV,LATAM,2021-12-07,C,high
+DEV_0160,Roku Premiere,APAC,2023-01-27,C,mid
+DEV_0161,Roku Ultra,EU,2022-07-27,C,high
+DEV_0162,Roku TV,APAC,2021-09-23,B,high
+DEV_0163,Roku TV,EU,2024-01-20,C,high
+DEV_0164,Roku Premiere,EU,2019-08-23,A,mid
+DEV_0165,Roku Ultra,LATAM,2020-04-20,A,high
+DEV_0166,Roku Premiere,LATAM,2019-04-17,B,mid
+DEV_0167,Roku TV,LATAM,2023-09-11,C,high
+DEV_0168,Roku Premiere,LATAM,2023-03-15,A,mid
+DEV_0169,Roku TV,LATAM,2021-08-19,B,high
+DEV_0170,Roku Streaming Stick+,LATAM,2019-10-23,A,mid
+DEV_0171,Roku Streaming Stick+,APAC,2022-07-24,B,mid
+DEV_0172,Roku TV,APAC,2022-08-02,C,high
+DEV_0173,Roku Ultra,EU,2019-11-18,A,high
+DEV_0174,Roku Ultra,APAC,2024-01-28,C,high
+DEV_0175,Roku Ultra,EU,2019-05-02,A,high
+DEV_0176,Roku Streaming Stick+,,2023-02-18,C,mid
+DEV_0177,Roku Ultra,LATAM,2022-06-28,B,high
+DEV_0178,Roku TV,EU,2022-06-18,A,high
+DEV_0179,Roku Streaming Stick+,LATAM,2019-08-06,A,mid
+DEV_0180,Roku TV,EU,2019-12-24,A,high
+DEV_0181,Roku Express,APAC,2022-05-25,C,low
+DEV_0182,Roku Express,EU,2022-05-18,A,low
+DEV_0183,Roku Streaming Stick+,LATAM,2020-01-09,A,mid
+DEV_0184,Roku Streaming Stick+,EU,2022-09-01,B,mid
+DEV_0185,Roku TV,APAC,2020-02-03,A,high
+DEV_0186,Roku Ultra,APAC,2020-01-02,A,high
+DEV_0187,Roku Ultra,APAC,2020-10-22,B,high
+DEV_0188,Roku Ultra,LATAM,2020-05-14,B,high
+DEV_0189,Roku Premiere,EU,2022-12-09,A,mid
+DEV_0190,Roku Premiere,APAC,2021-04-09,A,mid
+DEV_0191,Roku Premiere,APAC,2023-05-24,C,mid
+DEV_0192,Roku Streaming Stick+,LATAM,2023-10-17,C,mid
+DEV_0193,Roku Express,APAC,2021-12-17,C,low
+DEV_0194,Roku TV,APAC,2022-08-11,C,high
+DEV_0195,Roku TV,LATAM,2023-04-29,C,high
+DEV_0196,Roku TV,LATAM,2021-06-14,C,high
+DEV_0197,Roku Ultra,APAC,2019-09-20,A,high
+DEV_0198,Roku Ultra,LATAM,2022-11-03,C,high
+DEV_0199,Roku TV,EU,2023-03-10,C,high
+DEV_0200,Roku TV,LATAM,2019-09-29,B,high
+DEV_0201,Roku Premiere,APAC,2023-12-06,B,mid
+DEV_0202,Roku TV,APAC,2021-02-22,C,high
+DEV_0203,Roku Ultra,EU,2021-04-15,B,high
+DEV_0204,Roku Streaming Stick+,LATAM,2021-09-30,A,mid
+DEV_0205,Roku Ultra,APAC,2021-12-09,A,high
+DEV_0206,Roku Premiere,APAC,2023-12-12,C,mid
+DEV_0207,Roku TV,EU,2019-10-17,A,high
+DEV_0208,Roku Streaming Stick+,EU,2023-09-29,C,mid
+DEV_0209,Roku Express,LATAM,2023-04-12,C,low
+DEV_0210,Roku TV,EU,2019-09-07,C,high
+DEV_0211,Roku Streaming Stick+,LATAM,2022-04-13,B,mid
+DEV_0213,Roku Premiere,LATAM,2021-10-15,A,mid
+DEV_0214,Roku TV,LATAM,2020-11-18,C,high
+DEV_0215,Roku TV,LATAM,2021-04-07,B,high
+DEV_0216,Roku TV,APAC,2019-06-06,A,high
+DEV_0217,Roku Express,LATAM,2019-05-25,A,low
+DEV_0218,Roku Streaming Stick+,APAC,2022-10-10,B,mid
+DEV_0219,Roku Streaming Stick+,EU,2020-04-07,A,mid
+DEV_0220,Roku Ultra,EU,2020-08-23,B,high
+DEV_0221,Roku TV,LATAM,2022-11-03,B,high
+DEV_0222,Roku TV,LATAM,2023-05-03,C,high
+DEV_0223,Roku Ultra,LATAM,2020-01-04,B,high
+DEV_0224,Roku Premiere,EU,2020-05-20,B,mid
+DEV_0225,Roku TV,EU,2022-03-18,A,high
+DEV_0226,Roku Streaming Stick+,APAC,2022-08-13,B,mid
+DEV_0227,Roku Express,EU,2020-08-19,A,low
+DEV_0228,Roku TV,APAC,2022-11-12,B,high
+DEV_0229,Roku Premiere,APAC,2021-10-06,C,mid
+DEV_0230,Roku Express,EU,2022-12-07,B,low
+DEV_0231,Roku Streaming Stick+,LATAM,2020-12-27,B,mid
+DEV_0232,Roku TV,EU,2022-03-25,B,high
+DEV_0233,Roku Express,LATAM,2020-10-02,B,low
+DEV_0234,Roku Premiere,APAC,2022-06-10,B,mid
+DEV_0235,Roku TV,APAC,2020-12-15,B,high
+DEV_0236,Roku Express,LATAM,2021-01-07,B,low
+DEV_0237,Roku TV,LATAM,2021-10-30,A,high
+DEV_0238,Roku Premiere,EU,2021-05-11,B,mid
+DEV_0239,Roku Streaming Stick+,EU,2023-03-11,B,mid
+DEV_0240,Roku Premiere,APAC,2020-05-02,C,mid
+DEV_0241,Roku Streaming Stick+,EU,2020-06-26,A,mid
+DEV_0242,Roku TV,EU,2022-08-10,C,high
+DEV_0243,Roku Premiere,EU,2021-12-22,C,mid
+DEV_0244,Roku Ultra,EU,2019-04-13,A,high
+DEV_0245,Roku Ultra,APAC,2023-06-12,C,high
+DEV_0246,Roku Premiere,LATAM,2021-05-14,A,mid
+DEV_0247,Roku TV,EU,2021-06-04,C,high
+DEV_0248,Roku Ultra,LATAM,2020-09-08,B,high
+DEV_0249,Roku Express,LATAM,2021-11-08,B,low
+DEV_0250,Roku Premiere,APAC,2020-08-22,A,mid
+DEV_0251,Roku Streaming Stick+,LATAM,2023-07-11,B,mid
+DEV_0252,Roku Premiere,LATAM,2023-04-28,C,mid
+DEV_0253,Roku Streaming Stick+,LATAM,2021-06-01,A,mid
+DEV_0254,Roku Streaming Stick+,LATAM,2023-05-11,C,mid
+DEV_0255,Roku Streaming Stick+,APAC,2023-12-20,A,mid
+DEV_0256,Roku TV,EU,2021-10-09,C,high
+DEV_0257,Roku TV,APAC,2020-07-31,B,high
+DEV_0258,Roku Premiere,APAC,2021-06-22,A,mid
+DEV_0259,Roku Streaming Stick+,APAC,2019-09-15,C,mid
+DEV_0260,Roku TV,APAC,2022-09-21,B,high
+DEV_0261,Roku TV,LATAM,2021-11-02,A,high
+DEV_0262,Roku Premiere,EU,2023-03-08,B,mid
+DEV_0263,Roku Premiere,LATAM,2022-10-21,C,mid
+DEV_0264,Roku Express,APAC,2021-07-25,A,low
+DEV_0265,Roku Premiere,APAC,2021-01-25,B,mid
+DEV_0266,Roku Express,LATAM,2020-10-14,A,low
+DEV_0267,Roku Streaming Stick+,APAC,2022-10-08,C,mid
+DEV_0268,Roku Streaming Stick+,APAC,2022-12-09,B,mid
+DEV_0269,Roku Premiere,,2022-01-12,C,mid
+DEV_0270,Roku TV,LATAM,2022-12-28,C,high
+DEV_0271,Roku Streaming Stick+,EU,2022-12-12,C,mid
+DEV_0272,Roku TV,LATAM,2019-04-24,B,high
+DEV_0273,Roku Streaming Stick+,LATAM,2022-05-26,A,mid
+DEV_0274,Roku Premiere,EU,2020-06-17,A,mid
+DEV_0275,Roku Express,EU,2022-06-28,B,low
+DEV_0276,Roku Premiere,APAC,2023-11-29,B,mid
+DEV_0277,Roku Express,EU,2023-11-01,B,low
+DEV_0278,Roku Ultra,EU,2019-03-06,C,high
+DEV_0279,Roku Premiere,APAC,2022-04-04,B,mid
+DEV_0280,Roku Streaming Stick+,LATAM,2024-01-15,B,mid
+DEV_0281,Roku TV,LATAM,2022-03-10,C,high
+DEV_0282,Roku TV,EU,2022-10-04,B,high
+DEV_0283,Roku Ultra,EU,2020-09-21,A,high
+DEV_0284,Roku TV,APAC,2019-07-01,A,high
+DEV_0285,Roku TV,EU,2019-08-12,B,high
+DEV_0286,Roku Premiere,APAC,2023-09-06,B,mid
+DEV_0287,Roku TV,EU,2024-01-23,B,high
+DEV_0288,Roku TV,APAC,2019-10-24,A,high
+DEV_0289,Roku Ultra,EU,2023-03-07,B,high
+DEV_0290,Roku Premiere,LATAM,2023-05-11,C,mid
+DEV_0291,Roku TV,APAC,2019-05-09,A,high
+DEV_0292,Roku Express,EU,2023-03-09,C,low
+DEV_0293,Roku TV,APAC,2019-10-16,A,high
+DEV_0294,Roku Ultra,LATAM,2020-02-28,A,high
+DEV_0295,Roku Express,EU,2023-01-29,B,low
+DEV_0296,Roku Streaming Stick+,APAC,2019-08-10,B,mid
+DEV_0297,Roku Ultra,LATAM,2020-12-16,B,high
+DEV_0298,Roku Ultra,APAC,2021-10-12,B,high
+DEV_0299,Roku Streaming Stick+,LATAM,2021-08-23,C,mid
+DEV_0300,Roku Streaming Stick+,EU,2023-11-21,C,mid
+DEV_0301,Roku Premiere,LATAM,2019-09-26,A,mid
+DEV_0302,Roku Premiere,EU,2022-07-04,C,mid
+DEV_0303,Roku Ultra,LATAM,2022-09-09,C,high
+DEV_0304,Roku Premiere,LATAM,2024-01-03,B,mid
+DEV_0305,Roku Premiere,EU,2022-10-10,A,mid
+DEV_0306,Roku Streaming Stick+,APAC,2022-05-03,B,mid
+DEV_0307,Roku Express,LATAM,2023-11-10,B,low
+DEV_0308,Roku Ultra,LATAM,2020-10-14,B,high
+DEV_0309,Roku TV,LATAM,2023-05-16,C,high
+DEV_0310,Roku Express,EU,2022-10-03,B,low
+DEV_0311,Roku Streaming Stick+,APAC,2021-09-07,A,mid
+DEV_0312,Roku Express,APAC,2020-10-28,A,low
+DEV_0313,Roku TV,EU,2023-02-26,C,high
+DEV_0314,Roku Streaming Stick+,LATAM,2019-06-13,B,mid
+DEV_0315,Roku TV,EU,2021-06-29,A,high
+DEV_0316,Roku Express,LATAM,2021-10-02,A,low
+DEV_0317,Roku Express,LATAM,2020-05-07,B,low
+DEV_0318,Roku Premiere,APAC,2023-01-18,B,mid
+DEV_0319,Roku Premiere,APAC,2022-09-04,C,mid
+DEV_0320,Roku Premiere,LATAM,2019-06-22,A,mid
+DEV_0321,Roku Ultra,EU,2020-07-25,B,high
+DEV_0322,Roku Ultra,EU,2019-05-10,A,high
+DEV_0323,Roku TV,LATAM,2020-12-11,C,high
+DEV_0324,Roku Premiere,APAC,2023-05-29,C,mid
+DEV_0325,Roku Express,EU,2020-04-22,A,low
+DEV_0326,Roku Streaming Stick+,EU,2019-08-03,B,mid
+DEV_0327,Roku Express,LATAM,2023-06-17,B,low
+DEV_0328,Roku Express,APAC,2022-08-15,B,low
+DEV_0329,Roku Streaming Stick+,LATAM,2020-03-06,A,mid
+DEV_0330,Roku TV,LATAM,2023-06-11,A,high
+DEV_0331,Roku Premiere,LATAM,2019-03-24,A,mid
+DEV_0332,Roku Ultra,APAC,2023-06-29,B,high
+DEV_0333,Roku Ultra,EU,2023-12-15,C,high
+DEV_0334,Roku TV,APAC,2020-04-15,B,high
+DEV_0335,Roku TV,LATAM,2024-01-22,B,high
+DEV_0336,Roku TV,LATAM,2023-08-22,B,high
+DEV_0337,Roku Express,LATAM,2020-09-16,B,low
+DEV_0338,Roku TV,EU,2020-04-08,B,high
+DEV_0339,Roku Premiere,EU,2019-08-28,A,mid
+DEV_0340,Roku Streaming Stick+,APAC,2022-11-19,C,mid
+DEV_0341,Roku Streaming Stick+,LATAM,2020-01-06,C,mid
+DEV_0342,Roku Premiere,LATAM,2021-12-27,B,mid
+DEV_0343,Roku Premiere,EU,2020-03-20,C,mid
+DEV_0344,Roku TV,APAC,2023-05-14,A,high
+DEV_0345,Roku TV,EU,2020-06-11,B,high
+DEV_0346,Roku Streaming Stick+,LATAM,2020-10-26,A,mid
+DEV_0347,Roku Premiere,APAC,2022-01-15,A,mid
+DEV_0348,Roku Express,APAC,2021-10-17,A,low
+DEV_0349,Roku Ultra,APAC,2023-03-18,A,high
+DEV_0350,Roku Ultra,APAC,2022-02-11,B,high
+DEV_0351,Roku TV,APAC,2021-01-11,A,high
+DEV_0352,Roku Premiere,LATAM,2020-01-23,A,mid
+DEV_0353,Roku TV,LATAM,2021-02-05,A,high
+DEV_0354,Roku Ultra,EU,2021-10-15,A,high
+DEV_0355,Roku Ultra,EU,2020-06-28,C,high
+DEV_0356,Roku TV,APAC,2020-08-16,C,high
+DEV_0357,Roku Streaming Stick+,EU,2019-05-12,A,mid
+DEV_0358,Roku Express,APAC,2020-03-04,A,low
+DEV_0359,Roku TV,APAC,2023-09-23,A,high
+DEV_0360,Roku Ultra,APAC,2021-01-03,A,high
+DEV_0361,Roku Premiere,EU,2020-07-12,A,mid
+DEV_0362,Roku TV,EU,2019-04-12,A,high
+DEV_0363,Roku Ultra,LATAM,2020-04-13,A,high
+DEV_0364,Roku TV,APAC,2021-04-30,A,high
+DEV_0365,Roku TV,LATAM,2023-11-12,B,high
+DEV_0366,Roku Express,EU,2022-12-27,A,low
+DEV_0367,Roku Ultra,APAC,2020-04-10,A,high
+DEV_0368,Roku Express,LATAM,2021-05-17,B,low
+DEV_0369,Roku Ultra,EU,2020-08-24,A,high
+DEV_0370,Roku TV,APAC,2022-11-10,B,high
+DEV_0371,Roku Ultra,APAC,2020-02-14,A,high
+DEV_0372,Roku TV,APAC,2023-08-31,A,high
+DEV_0373,Roku Premiere,APAC,2019-03-23,A,mid
+DEV_0374,Roku Streaming Stick+,APAC,2020-04-20,A,mid
+DEV_0375,Roku TV,EU,2020-08-29,B,high
+DEV_0376,Roku Premiere,LATAM,2022-10-05,C,mid
+DEV_0377,Roku Ultra,LATAM,2020-02-03,A,high
+DEV_0378,Roku Express,APAC,2022-07-07,C,low
+DEV_0379,Roku Ultra,EU,2019-11-07,B,high
+DEV_0380,Roku TV,APAC,2019-02-22,A,high
+DEV_0381,Roku Streaming Stick+,LATAM,2019-10-18,A,mid
+DEV_0382,Roku Streaming Stick+,LATAM,2022-01-29,A,mid
+DEV_0383,Roku Ultra,EU,2019-07-24,B,high
+DEV_0384,Roku Premiere,APAC,2021-11-16,B,mid
+DEV_0385,Roku Express,LATAM,2019-12-22,C,low
+DEV_0386,Roku Streaming Stick+,EU,2019-06-25,A,mid
+DEV_0387,Roku Streaming Stick+,EU,2022-03-01,B,mid
+DEV_0388,Roku Streaming Stick+,APAC,2020-02-19,A,mid
+DEV_0389,Roku Ultra,EU,2019-03-03,A,high
+DEV_0390,Roku Express,APAC,2019-10-15,A,low
+DEV_0391,Roku Ultra,APAC,2023-01-24,B,high
+DEV_0392,Roku Streaming Stick+,EU,2021-09-28,A,mid
+DEV_0393,Roku Ultra,EU,2021-11-09,C,high
+DEV_0394,Roku TV,EU,2023-01-08,B,high
+DEV_0395,Roku Express,LATAM,2022-12-26,B,low
+DEV_0396,Roku Ultra,EU,2023-10-03,B,high
+DEV_0397,Roku Express,APAC,2020-08-11,A,low
+DEV_0398,Roku Premiere,LATAM,2023-09-07,B,mid
+DEV_0399,Roku Streaming Stick+,LATAM,2023-06-14,B,mid
+DEV_0400,Roku Premiere,EU,2023-05-25,B,mid
+DEV_0401,Roku Premiere,EU,2021-06-26,C,mid
+DEV_0402,Roku TV,EU,2022-09-26,C,high
+DEV_0403,Roku Streaming Stick+,EU,2021-10-23,B,mid
+DEV_0404,Roku Streaming Stick+,LATAM,2020-03-13,A,mid
+DEV_0405,Roku Streaming Stick+,APAC,2022-04-13,B,mid
+DEV_0406,Roku Ultra,APAC,2022-12-08,B,high
+DEV_0407,Roku Streaming Stick+,LATAM,2023-09-11,A,mid
+DEV_0408,Roku Express,LATAM,2021-12-22,A,low
+DEV_0409,Roku Express,LATAM,2019-12-31,A,low
+DEV_0410,Roku Premiere,EU,2021-10-16,A,mid
+DEV_0411,Roku Streaming Stick+,LATAM,2022-09-29,A,mid
+DEV_0412,Roku Ultra,EU,2022-07-14,C,high
+DEV_0413,Roku Streaming Stick+,APAC,2023-12-30,C,mid
+DEV_0414,Roku Ultra,EU,2023-03-13,A,high
+DEV_0415,Roku Premiere,LATAM,2023-07-26,C,mid
+DEV_0416,Roku Streaming Stick+,APAC,2022-09-28,B,mid
+DEV_0417,Roku Premiere,APAC,2019-05-17,A,mid
+DEV_0418,Roku TV,LATAM,2019-10-28,B,high
+DEV_0419,Roku Ultra,APAC,2020-04-22,B,high
+DEV_0420,Roku TV,APAC,2019-02-11,B,high
+DEV_0421,Roku TV,LATAM,2022-07-16,C,high
+DEV_0422,Roku Express,APAC,2022-03-25,B,low
+DEV_0423,Roku Express,LATAM,2023-11-23,B,low
+DEV_0424,Roku Express,APAC,2021-10-10,B,low
+DEV_0425,Roku Express,APAC,2021-07-04,B,low
+DEV_0426,Roku TV,LATAM,2022-05-29,A,high
+DEV_0427,Roku Ultra,LATAM,2020-09-29,A,high
+DEV_0428,Roku Premiere,LATAM,2022-04-04,A,mid
+DEV_0429,Roku Express,APAC,2021-11-05,B,low
+DEV_0430,Roku Premiere,LATAM,2020-08-24,A,mid
+DEV_0431,Roku TV,LATAM,2020-08-12,A,high
+DEV_0432,Roku Ultra,APAC,2020-05-29,B,high
+DEV_0433,Roku Express,LATAM,2020-08-19,A,low
+DEV_0434,Roku Streaming Stick+,EU,2022-07-01,A,mid
+DEV_0435,Roku TV,APAC,2022-12-11,C,high
+DEV_0436,Roku Ultra,LATAM,2023-05-11,B,high
+DEV_0437,Roku Premiere,EU,2022-06-17,B,mid
+DEV_0438,Roku Streaming Stick+,APAC,2020-07-18,A,mid
+DEV_0439,Roku TV,APAC,2019-11-13,A,high
+DEV_0440,Roku Premiere,LATAM,2021-11-20,A,mid
+DEV_0441,Roku Streaming Stick+,LATAM,2023-09-13,C,mid
+DEV_0442,Roku Express,APAC,2019-07-03,A,low
+DEV_0443,Roku Premiere,LATAM,2019-12-18,B,mid
+DEV_0444,Roku Premiere,APAC,2022-01-13,A,mid
+DEV_0445,Roku Streaming Stick+,LATAM,2020-12-31,B,mid
+DEV_0446,Roku Streaming Stick+,LATAM,2023-12-11,B,mid
+DEV_0447,Roku Express,APAC,2022-01-11,B,low
+DEV_0448,Roku Ultra,LATAM,2020-06-14,B,high
+DEV_0449,Roku Streaming Stick+,EU,2020-05-13,A,mid
+DEV_0450,Roku Streaming Stick+,APAC,2019-02-26,A,mid
+DEV_0451,Roku Ultra,LATAM,2021-07-28,A,high
+DEV_0452,Roku Express,APAC,2021-10-01,A,low
+DEV_0453,Roku TV,APAC,2021-05-22,B,high
+DEV_0454,Roku Streaming Stick+,EU,2019-04-28,A,mid
+DEV_0455,Roku Express,LATAM,2023-06-21,B,low
+DEV_0456,Roku Express,LATAM,2023-04-09,B,low
+DEV_0457,Roku Express,LATAM,2020-01-29,A,low
+DEV_0458,Roku Express,EU,2023-01-07,B,low
+DEV_0459,Roku Premiere,EU,2020-12-04,A,mid
+DEV_0460,Roku Ultra,LATAM,2022-05-17,C,high
+DEV_0461,Roku Express,LATAM,2020-04-23,A,low
+DEV_0462,Roku TV,EU,2022-01-20,A,high
+DEV_0463,Roku Express,EU,2023-04-07,B,low
+DEV_0464,Roku TV,LATAM,2019-08-03,B,high
+DEV_0465,Roku Ultra,LATAM,2024-01-13,B,high
+DEV_0466,Roku Premiere,EU,2019-03-23,A,mid
+DEV_0467,Roku TV,APAC,2023-11-10,A,high
+DEV_0468,Roku Ultra,APAC,2021-07-13,B,high
+DEV_0469,Roku Ultra,LATAM,2019-07-10,A,high
+DEV_0470,Roku Streaming Stick+,LATAM,2020-08-07,A,mid
+DEV_0471,Roku TV,LATAM,2022-12-23,B,high
+DEV_0472,Roku TV,LATAM,2020-12-11,C,high
+DEV_0473,Roku Premiere,APAC,2023-01-13,C,mid
+DEV_0474,Roku Premiere,APAC,2019-10-13,A,mid
+DEV_0475,Roku Streaming Stick+,APAC,2023-09-29,B,mid
+DEV_0476,Roku Express,APAC,2023-07-18,B,low
+DEV_0477,Roku TV,EU,2020-07-16,A,high
+DEV_0478,Roku Ultra,APAC,2021-04-10,C,high
+DEV_0479,Roku Streaming Stick+,EU,2020-05-12,A,mid
+DEV_0480,Roku Ultra,EU,2020-01-16,A,high
+DEV_0481,Roku TV,APAC,2023-09-02,B,high
+DEV_0482,Roku TV,APAC,2020-03-19,B,high
+DEV_0483,Roku Streaming Stick+,EU,2022-03-17,B,mid
+DEV_0484,Roku TV,LATAM,2020-03-31,B,high
+DEV_0485,Roku Ultra,LATAM,2023-01-18,B,high
+DEV_0486,Roku Streaming Stick+,EU,2019-03-07,A,mid
+DEV_0487,Roku Ultra,EU,2021-09-03,A,high
+DEV_0488,Roku Streaming Stick+,LATAM,2023-12-10,C,mid
+DEV_0489,Roku Premiere,APAC,2020-06-30,A,mid
+DEV_0490,Roku Premiere,APAC,2023-07-21,B,mid
+DEV_0491,Roku Premiere,EU,2021-01-31,B,mid
+DEV_0492,Roku TV,,2023-04-26,C,high
+DEV_0493,Roku Express,EU,2022-12-27,B,low
+DEV_0494,Roku TV,EU,2021-03-06,A,high
+DEV_0495,Roku TV,APAC,2021-03-10,A,high
+DEV_0496,Roku TV,APAC,2021-12-05,C,high
+DEV_0497,Roku Premiere,LATAM,2022-08-31,B,mid
+DEV_0498,Roku Express,APAC,2023-10-05,C,low
+DEV_0499,Roku TV,LATAM,2022-05-23,B,high
+DEV_0500,Roku Ultra,LATAM,2022-09-08,B,high
