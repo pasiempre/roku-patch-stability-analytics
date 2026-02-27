@@ -1,32 +1,43 @@
-# --- Replacement for the score_file function in risk_gate.py ---
+# --- Improved risk_gate.py importing from src.config ---
 import pandas as pd
 import numpy as np
 import json
 import sys
 import os
+from pathlib import Path
 
 from catboost import CatBoostClassifier
 
-# ====== GLOBAL CONFIGURATION ======
+# Add project root to path to allow importing src.config
+project_root = Path(__file__).resolve().parent
+if str(project_root) not in sys.path:
+    sys.path.append(str(project_root))
 
-# These must match the trained CatBoost classifier feature set
-FEATURE_COLS = [
-    "code_churn_score",
-    "previous_version_error_rate",
-    "avg_device_age_days",
-    "is_hotfix",
-    "patch_security",
-]
+try:
+    from src.config import CATBOOST_MODEL_PATH, FEATURE_COLS, RISK_THRESHOLD
+except ImportError:
+    # Fallback for standalone usage if src.config is missing
+    FEATURE_COLS = [
+        "code_churn_score",
+        "previous_version_error_rate",
+        "avg_device_age_days",
+        "is_hotfix",
+        "patch_security",
+    ]
+    CATBOOST_MODEL_PATH = "models/catboost_classifier_v002.cbm"
+    RISK_THRESHOLD = 0.50
 
-# Path to your trained CatBoost classifier
-MODEL_PATH = "catboost_risk_classifier.cbm"
-
-# Classification threshold (0.50 = default)
-RISK_THRESHOLD = 0.50
-
-def load_model(path: str):
+def load_model(path):
     model = CatBoostClassifier()
-    model.load_model(path)
+    if not Path(path).exists():
+        # Try local path if absolute fails
+        local_path = Path(__file__).parent / "models" / Path(path).name
+        if local_path.exists():
+            path = local_path
+        else:
+            raise FileNotFoundError(f"Model file not found at {path} or {local_path}")
+    
+    model.load_model(str(path))
     return model
 
 def score_file(input_csv: str):
@@ -44,11 +55,17 @@ def score_file(input_csv: str):
 
     missing = [c for c in REQUIRED_FOR_RUN if c not in df.columns]
     if missing:
+        # Check if it's just a naming mismatch (e.g. version vs firmware_version)
+        if "version" in df.columns and "firmware_version" not in df.columns:
+            df = df.rename(columns={"version": "firmware_version"})
+            missing = [c for c in REQUIRED_FOR_RUN if c not in df.columns]
+
+    if missing:
         raise ValueError(f"Missing required columns in {input_csv}: {missing}")
 
     # X is only the features used for prediction
     X = df[FEATURE_COLS]
-    model = load_model(MODEL_PATH)
+    model = load_model(CATBOOST_MODEL_PATH)
     
     # Predict the probability of being the positive class (High Risk = 1)
     probs = model.predict_proba(X)[:, 1]
@@ -65,6 +82,7 @@ def score_file(input_csv: str):
     summary = {
         "input_file": input_csv,
         "n_high_risk": int((df_out["high_risk_flag"] == 1).sum()),
+        "avg_risk_score": float(df_out["risk_score"].mean())
     }
 
     print(json.dumps(summary, indent=2))

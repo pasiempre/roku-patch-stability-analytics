@@ -1,5 +1,6 @@
 # Python / venv
 .venv/
+venv/
 __pycache__/
 *.pyc
 
@@ -7,6 +8,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.ipynb_convert/
 *.ipynb_tmp
+notebooks/catboost_info/
 
 # OS & editor
 .DS_Store
@@ -27,3 +29,4 @@ models/
 # Logs / temp
 logs/
 *.log
+data/roku_events.db
