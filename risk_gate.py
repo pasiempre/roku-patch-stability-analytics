@@ -1,4 +1,4 @@
-# --- Improved risk_gate.py importing from src.config ---
+"""CI risk-gate runner for firmware patch feature files."""
 import pandas as pd
 import numpy as np
 import json

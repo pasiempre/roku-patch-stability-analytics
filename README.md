@@ -2,7 +2,7 @@
 
 ## Executive Summary — From Reactive QA to Proactive MLOps
 
-This project delivers a complete, production-ready analytics and MLOps pipeline that **predicts firmware patch regressions before deployment**. It operationalizes ML models into:
+This project delivers a complete analytics and MLOps pipeline that **predicts firmware patch regressions before deployment**. It operationalizes ML models into:
 
 - **CI/CD workflows** (automatic deployment blocking)
 - **QA resource prioritization**
@@ -66,7 +66,7 @@ roku-patch-stability-analytics/
 | 03 | `ml_modeling` | CatBoost & RandomForest training with **ROC-AUC: 0.93** |
 | 04 | `qa_prioritization` | Risk-based QA workload prioritization |
 | 05 | `device_monitoring` | Device fleet monitoring with age-weighted risk |
-| 06 | `continuous_retraining` | Drift detection and automated model retraining |
+| 06 | `continuous_retraining` | Drift detection and retraining pipeline simulation |
 
 ---
 
@@ -109,6 +109,9 @@ Execute notebooks 00-06 sequentially to:
 python risk_gate.py test_patch_features.csv
 ```
 
+### 4. Run in GitHub Actions
+This repository includes a workflow at `.github/workflows/risk_gate.yml` that runs the same gate logic on `push`, `pull_request`, and manual dispatch.
+
 **Expected output:**
 ```json
 {
@@ -133,7 +136,7 @@ or:
 | **Machine Learning** | CatBoost, scikit-learn, XGBoost |
 | **Visualization** | Matplotlib, Seaborn |
 | **MLOps** | joblib, pathlib |
-| **CI Integration** | Python CLI script |
+| **CI Integration** | Python CLI script + GitHub Actions workflow |
 
 ---
 
